@@ -1,16 +1,18 @@
-## Hi there 👋
+# 😺 Olá, eu sou o Ryan!
+### 🚀 Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**ryanoliveira466/ryanoliveira466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** pelo **Senac São Leopoldo**
+- 🌱 Aprendendo **[Web, Desktop,  Linguagens de Programação , Banco de dados , Front-end , Back-end e outros...]**
+- 📫 Como me encontrar: **[[📷 - Instagram](https://www.instagram.com/oliveiraryan.10/#)]**
+- 💬 Curiosidades **[Gosto de animes,Games(FPS, MOBA), estudar programação e xadrez ♔🙂]**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 🔥 Linguagens Mais Usadas
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanoliveira466&layout=compact&theme=radical)
+
+## 📂 Banco de Dados
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" alt="Logo do MariaDB" width="300">
+
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/0/00/Derby_Logo.png" alt="Logo do MariaDB" width="300">
