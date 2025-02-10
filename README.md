@@ -15,4 +15,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" alt="Logo do MariaDB" width="300">
 
 <br>
-<img src="https://db.apache.org/derby/logo/pb-derby.png" alt="Logo do MariaDB">
+<img src="https://db.apache.org/derby/logo/pb-derby.png" alt="Logo do MariaDB" width="300">
