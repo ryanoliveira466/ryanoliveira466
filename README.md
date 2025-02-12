@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** pelo **Senac São Leopoldo**
 - 🌱 Aprendendo **[Web, Desktop,  Linguagens de Programação , Banco de dados , Front-end , Back-end e outros...]**
 - 📫 Como me encontrar: **[[📷 - Instagram](https://www.instagram.com/oliveiraryan.10/#)]**
-- 💬 Curiosidades **[Gosto de animes, Games(FPS, MOBA), estudar programação e xadrez ♔🙂]**
+- 💬 Curiosidades **[Gosto de animes, games(FPS, MOBA), estudar programação e xadrez ♔🙂]**
 
 
  
