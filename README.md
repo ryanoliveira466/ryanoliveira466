@@ -5,7 +5,7 @@
 - 🌱 Aprendendo **[Web, Desktop,  Linguagens de Programação , Banco de dados , Front-end , Back-end e outros...]**
 - 📫 Como me encontrar: **[[📷 - Instagram](https://www.instagram.com/oliveiraryan.10/#)]**
 - 💬 Curiosidades **[Gosto de animes, games(FPS, MOBA), estudar programação e xadrez ♔🙂]**
-- [Portifólio](https://ryanoliveira466.github.io/portifolio
+- 📝 [Portifólio](https://ryanoliveira466.github.io/portifolio)
 
 
  
